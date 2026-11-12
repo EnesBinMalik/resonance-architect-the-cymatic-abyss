@@ -1,0 +1,6 @@
+{
+  "name": "Resonance Architect: The Cymatic Abyss",
+  "description": "3D High-Tempo Acoustic Combat, Real-Time Cymatics Wave Shaping & Physical Reverberation Architecture Simulation by Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
